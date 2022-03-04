@@ -1,0 +1,6 @@
+*
+!.gitignore
+
+!assign1/
+assign1/*
+!assign1/assign1.ipynb
